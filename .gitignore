@@ -1,0 +1,4 @@
+# write filenames that git will ignore, and ignore the results folder
+
+*.dat
+results/
